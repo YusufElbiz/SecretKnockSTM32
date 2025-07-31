@@ -59,7 +59,6 @@ This embedded system was developed for educational and practical purposes. It of
 This project demonstrates:
 - ADC signal processing
 - PWM/IO control
-- EEPROM storage
 - Basic security via pattern recognition
 
 Ideal for microcontroller, signal processing, and embedded systems learning.
