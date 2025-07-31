@@ -11,7 +11,7 @@ This embedded system was developed for educational and practical purposes. It of
 - **Piezoelectric sensor** for knock detection
 - **STM32F100RB** MCU for signal processing and pattern recognition
 - **Solenoid lock** controlled via transistor
-- **EEPROM** to store the secret knock pattern even after power loss
+
 
 ---
 
